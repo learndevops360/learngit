@@ -1,3 +1,7 @@
 This is my firs code on git
 I am adding second line of code 
+<<<<<<< HEAD
 I want some changes in it right now
+=======
+I am adding third line of code
+>>>>>>> cd50311ec7ba8321832de38ff348e1f0c74111fb
